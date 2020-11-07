@@ -1,3 +1,6 @@
+eeee
+EEEE
+LLLL
 ## CHANGELOG
 * v1.9.7 - Added chk_tools script to verify tools and libraries versions to run fatrat , Script will also provide solutions
 * v1.9.7 - Upgraded Apktool to 2.4.1 version
